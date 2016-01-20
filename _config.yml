@@ -1,0 +1,28 @@
+name: 'Renloran '
+favicon: null
+layout_spectrum: 0.7566601147409528
+typography_spectrum: 0.37879661517217755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.734298191498965
+  lightness: 0.6670500780455768
+  saturation: 0.9894528370350599
+  rhythmicContrast: 0.23988290829584002
+purpose: []
